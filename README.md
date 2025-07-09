@@ -13,7 +13,9 @@
 - 🎨 I'm currently diving deep into **UI/UX Design & Web Development**
 - 🧠 Currently learning **Laravel and Figma**
 - 📫 Reach me at **agusbayupam@gmail.com**
-- 🌐 Live Preview: **https://spbupertaminasemarang.web.app** **https://bayu-linktree.web.app**
+- 🌐 Live Project:
+     **https://agusbayu.web.app**
+     **https://spbupertaminasemarang.web.app** 
 
 ---
 
