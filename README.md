@@ -14,7 +14,7 @@
 - 🧠 Currently learning **Laravel and Figma**
 - 📫 Reach me at **agusbayupam@gmail.com**
 - 🌐 Live Project:
-     **https://agusbayu.web.app**
+     **https://bayuproject.web.app**
      **https://spbupertaminasemarang.web.app** 
 
 ---
