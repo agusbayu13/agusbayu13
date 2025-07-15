@@ -22,23 +22,35 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
 </p>
 
+> "The only way to do great work is to love what you do." – Steve Jobs
 ---
-
 ### 📈 GitHub Stats
-
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=agusbayu13&show_icons=true&theme=radical" alt="agusbayu13" />
-  <br/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusbayu13&layout=compact&theme=radical" alt="agusbayu13" />
+    <table>
+    <tr>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=agusbayu13&theme=radical" height="200" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusbayu13&layout=compact&theme=radical" height="200" />
+      </td>
+    </tr>
+  </table>
+  <br />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=agusbayu13&margin-w=10&theme=onedark" alt="GitHub Trophy" />
+  </a>
 </p>
 
 ---
@@ -53,10 +65,10 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/agusbayupamungkas" target="_blank">
-    <img src="https://img.shields.io/badge/-Agus%20Bayu%20Pamungkas-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Agus%20Bayu%20Pamungkas-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:agusbayupam@gmail.com">
-    <img src="https://img.shields.io/badge/-agusbayupam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-agusbayupam@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
