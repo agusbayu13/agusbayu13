@@ -21,7 +21,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white&style=for-the-badge" />
@@ -47,10 +47,6 @@
       </td>
     </tr>
   </table>
-  <br />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=agusbayu13&margin-w=10&theme=onedark" alt="GitHub Trophy" />
-  </a>
 </p>
 
 ---
