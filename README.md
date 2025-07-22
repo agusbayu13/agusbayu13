@@ -19,6 +19,7 @@
 - 📫 Reach me at **agusbayupam@gmail.com**
 - 🌐 Live Project:
      **https://bayuproject.web.app**
+    **https://bayustudio.web.app**
      **https://spbupertaminasemarang.web.app** 
 
 ---
